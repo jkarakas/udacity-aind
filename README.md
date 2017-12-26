@@ -40,6 +40,6 @@ type | name | tags
 
 ## Certificate of Completion
 
-<a href="http://via.placeholder.com/700x540">
-  <img src="http://via.placeholder.com/700x540" alt="Verified Certificate of Completion" height="400"/>
+<a href="https://github.com/romanroibu/udacity-aind/blob/master/certificate.pdf">
+  <img src="https://github.com/romanroibu/udacity-aind/raw/master/assets/certificate_thumbnail.png" alt="Verified Certificate of Completion" height="400"/>
 </a>
