@@ -1,4 +1,4 @@
-# Udacity Artificial Intelligence Nanodegree
+# [Udacity Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
 
 ##### [Roman Roibu](https://github.com/romanroibu)
 
